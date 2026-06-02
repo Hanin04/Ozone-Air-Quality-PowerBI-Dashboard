@@ -5,6 +5,7 @@ This project analyzes ozone air quality data for 2020 using Power BI.
 The dashboard provides insights into AQI categories, monthly AQI trends, daily ozone changes, geographic distribution, and top states by average ozone AQI.
 
 ## Dashboard Preview
+This dashboard was created using Power BI to visualize ozone AQI patterns across time, location, and AQI categories.
 ![Ozone Dashboard](ozone_dashboard.png)
 
 ## Key Questions
@@ -32,4 +33,4 @@ The dashboard provides insights into AQI categories, monthly AQI trends, daily o
 - `sample_daily_ozone_2020.xlsx`: Sample dataset used for preview
 
 ## Author
-Hanin Yousif
+Hanin Alaslani
